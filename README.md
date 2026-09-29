@@ -94,7 +94,7 @@ Interactive 3D hospital environment designed for experimenting with digital twin
 </p>
 
 <p>
-  <img src="https://img.icons8.com/color/48/machine-learning.png" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="25"/>
   <b>Machine Learning & Deep Learning</b>
 </p>
 
@@ -119,7 +119,7 @@ Interactive 3D hospital environment designed for experimenting with digital twin
 </p>
 
 <p>
-  <img src="https://img.icons8.com/color/48/3d-model.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/3d-scale.png" width="25"/>
   <b>Digital Twins</b>
 </p>
 
