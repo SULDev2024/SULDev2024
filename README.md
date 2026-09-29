@@ -85,21 +85,52 @@ Interactive 3D hospital environment designed for experimenting with digital twin
   <img src="https://skillicons.dev/icons?i=php" width="50" />
 </p>
 
-**AI / Machine Learning**
+### 🤖 AI & Machine Learning
 
-`PyTorch` `scikit-learn` `OpenCV` `LLMs` `Computer Vision`
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" />
+  <img src="https://skillicons.dev/icons?i=opencv" width="50" />
+</p>
 
-**Backend & Web**
+### ⚡ Frameworks & Web Technologies
 
-`FastAPI` `Flask` `React` `Node.js` `Express`
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
+  <img src="https://skillicons.dev/icons?i=flask" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" />
+</p>
 
-**3D & Spatial**
+### 🎨 3D, AR & Spatial Technologies
 
-`Blender` `Maya` `Three.js` `WebXR` `Unity`
+<p>
+  <img src="https://skillicons.dev/icons?i=blender" width="50" />
+  <img src="https://skillicons.dev/icons?i=unity" width="50" />
+  <img src="https://skillicons.dev/icons?i=threejs" width="50" />
+</p>
 
-**Databases & DevOps**
+`Maya` • `WebXR` • `Spatial AI` • `Augmented Reality`
 
-`PostgreSQL` `SQLite` `MongoDB` `Docker` `Git` `GitHub`
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+</p>
+
+
+### 🚀 DevOps & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+</p>
 
 ---
 
