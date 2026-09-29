@@ -88,15 +88,50 @@ Interactive 3D hospital environment designed for experimenting with digital twin
 
 ## 🧠 Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Computer Vision
-- Multimodal AI
-- Spatial AI
-- Augmented Reality
-- Digital Twins
-- 3D Modeling
-- Large Language Models
+<p>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="25"/>
+  <b>Artificial Intelligence</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/machine-learning.png" width="25"/>
+  <b>Machine Learning & Deep Learning</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/visible--v1.png" width="25"/>
+  <b>Computer Vision</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/data-configuration.png" width="25"/>
+  <b>Multimodal AI</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="25"/>
+  <b>Spatial AI</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/augmented-reality.png" width="25"/>
+  <b>Augmented Reality</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/3d-model.png" width="25"/>
+  <b>Digital Twins</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/blender-3d.png" width="25"/>
+  <b>3D Modeling</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="25"/>
+  <b>Large Language Models</b>
+</p>
 
 ---
 
