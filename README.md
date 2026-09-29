@@ -13,13 +13,40 @@ spatial computing, augmented reality, and 3D technologies to solve real-world pr
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at Al-Farabi Kazakh National University
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
-- 👁️ Working with Computer Vision and multimodal AI systems
-- 🥽 Exploring Spatial AI, Augmented Reality, and intelligent 3D environments
-- 🧠 Building practical AI systems using LLMs and modern AI APIs
-- 🏆 Regularly building projects for hackathons and research
-- 📚 Interested in turning experimental projects into research and real-world products
+<p>
+  <img src="https://img.icons8.com/color/48/graduation-cap.png" width="25"/>
+  Computer Science student at <b>Al-Farabi Kazakh National University</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="25"/>
+  Interested in <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/visible--v1.png" width="25"/>
+  Working with <b>Computer Vision and Multimodal AI systems</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/augmented-reality.png" width="25"/>
+  Exploring <b>Spatial AI, Augmented Reality, and intelligent 3D environments</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="25"/>
+  Building practical AI systems using <b>LLMs and modern AI APIs</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/trophy.png" width="25"/>
+  Regularly building projects for <b>hackathons and research</b>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/microscope.png" width="25"/>
+  Interested in turning experimental projects into <b>research and real-world products</b>
+</p>
 
 ---
 
