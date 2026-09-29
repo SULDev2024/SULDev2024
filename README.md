@@ -75,9 +75,15 @@ Interactive 3D hospital environment designed for experimenting with digital twin
 
 ## 🛠️ Technologies & Tools
 
-**Languages**
+### 💻 Languages
 
-`Python` `C++` `Java` `JavaScript` `PHP` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=php" width="50" />
+</p>
 
 **AI / Machine Learning**
 
